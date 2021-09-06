@@ -33,7 +33,7 @@ export const useFetch = (url) => {
                     } else {
                         console.log('setState no se llamó');
                     }
-                }, 3000 );
+                }, 2000 );
             })
     }, [url])
 
