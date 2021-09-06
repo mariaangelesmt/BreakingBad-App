@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small application developed in React with Hooks to show famous quotes from the Breaking Bad serie. Where we use the [breakingbadApi](https://breakingbadapi.com/documentation) to get the data.
 
 ## Available Scripts
 
